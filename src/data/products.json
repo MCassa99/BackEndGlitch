@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Coca Cola",
+    "description": "Coca Cola 2.5L",
+    "price": 200,
+    "thumbnail": [],
+    "code": "Coke25",
+    "stock": 20,
+    "status": true,
+    "id": "5e4cc11c40e712b5b2ea0e49625e4a42",
+    "image": "/public/images/prod_CocaCola.webp"
+  },
+  {
+    "title": "Sprite",
+    "description": "Sprite 2.5L",
+    "price": 200,
+    "thumbnail": [],
+    "code": "Sprite25",
+    "stock": 20,
+    "status": true,
+    "id": "5e4cc11c40e712b5b2ea0e59625e4a42",
+    "image": "/public/images/prod_Sprite.png"
+  },
+  {
+    "title": "Pepsi",
+    "description": "Pepsi 2.5L",
+    "price": 150,
+    "thumbnail": [],
+    "code": "Pepsi25",
+    "stock": 20,
+    "status": true,
+    "id": "5e4cc11c40e712b5b2ea0e49625e4a44",
+    "image": "/public/images/prod_Pepsi.png"
+  },
+  {
+    "title": "Fanta",
+    "description": "Fanta 2.5L",
+    "price": 150,
+    "thumbnail": [],
+    "code": "Fanta25",
+    "stock": 20,
+    "status": true,
+    "id": "5e4cc11c40e712b5b2ea0e49625e4a45",
+    "image": "/public/images/prod_Fanta.webp"
+  }
+]
